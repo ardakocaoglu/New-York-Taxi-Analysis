@@ -1,4 +1,4 @@
 # New York Taxi Analysis
 Explanation
-##Nethodology
+## Methodology
 This is how i do this things...
